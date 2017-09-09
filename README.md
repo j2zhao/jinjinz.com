@@ -10,7 +10,7 @@ No. For actual inquiries/questions, please visit my website and contact me using
 
 I drank the school spirit koolaid and those are my school colours. 
 
-(Seriously though, Stockholm Syndrome. For 9/12 months all I see orange and black).
+(Seriously though, Stockholm Syndrome. For 9/12 months all I see orange and black. WHY ORANGE AND BLACK?).
 
 **You spelt color/colour wrong.**
 
