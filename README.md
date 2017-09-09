@@ -18,9 +18,9 @@ I'm a confused Canadian.
 
 **Why did you just link to your resume/github? Boo**
 
-uhm.....to demonstrate efficiency??
+uhm.....to demonstrate efficiency?? (copy/pasting everything on the website takes forever).
 
-But actually, I had about 10-12hrs to make this and I wanted to focus on the UI. It works on mobile 100% of 80% of the time! What more do you want???????????????
+The website works on mobile 100% of 80% of the time! What more do you want???????????????
 
 I did have a whole plan and was going to dedicate a bit of the website to fun facts, and hobbies though. Since I obviously didn't do that, here they are:
 
