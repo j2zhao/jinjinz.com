@@ -20,11 +20,11 @@ I'm a confused Canadian.
 
 uhm.....to demonstrate efficiency??.
 
-Instead I spent most of my 10-12hrs making sure that the website works on mobile 100% of 80% of the time.
+Instead I spent most of my 10-12hrs making sure that the website works on mobile 100% the time 80% the time.
 
 (^Am actually really proud of this so pls minimize your browsers. Also send me an email if anything breaks or you have suggestions.)
 
-I did have a whole plan of how I was going to display the projects info and was add a bit of fun facts. Since I obviously didn't do that, here they are:
+I did have a whole plan of how to display the projects info and was going to add extracurriculars/hobbies. Since I obviously didn't do that, here they are:
 
 Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), and I pinkie promise I'll wake up for early Sunday yoga in the fall.
 
@@ -34,7 +34,7 @@ Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), 
 
 **Also reBlog?**
 
-It's to justify my time wasted reading tech things on the internet (yes, I know).
+It's to justify time wasted reading tech things on the internet (yes, I know).
 
 **Should there be that many magic numbers/values in your CSS code?**
 
