@@ -170,7 +170,7 @@ p {
     font-size: 18px;
 }
 .headerImage {
-    background-image: url("../images/backdrop_edited.jpg");
+    background-image: url("../images/backdrop_compressed.jpg");
     background-color: #FFFFFF;
     height: 400px;
     margin: 0 auto 0 auto;
