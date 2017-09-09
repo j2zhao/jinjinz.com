@@ -22,7 +22,7 @@ uhm.....to demonstrate efficiency??.
 
 Instead I spent most of my 10-12hrs making sure that the website works on mobile 100% the time 80% the time.
 
-(^Am actually really proud of this so pls minimize your browsers. Also send me an email if anything breaks or you have suggestions.)
+(^Am actually pretty happy about this so pls minimize your browsers. Also send me an email if anything breaks or you have suggestions.)
 
 I did have a whole plan of how to display the projects info and was going to add extracurriculars/hobbies. Since I obviously didn't do that, here they are:
 
