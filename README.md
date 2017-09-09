@@ -32,7 +32,7 @@ Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), 
 
 **Also reBlog?**
 
-Let me justify wasting time on the internet however I want.
+It's existence is to justify wasting time on the internet reading tech articles (yes, I have lame hobbies).
 
 **Should there be that many magic numbers/values in your CSS code?**
 
