@@ -10,7 +10,7 @@ No. For actual inquiries/questions, please visit my website and contact me using
 
 I drank the school spirit koolaid and those are my school colours. 
 
-(Seriously though, Stockholm Syndrome. For 9/12 months all I see orange and black. WHY ORANGE AND BLACK?).
+(Seriously though, Stockholm Syndrome).
 
 **You spelt color/colour wrong.**
 
@@ -20,7 +20,7 @@ I'm a confused Canadian.
 
 uhm.....to demonstrate efficiency??.
 
-Instead I spent most of the 10-12hrs making sure that the website works on mobile 100% of 80% of the time.
+Instead I spent most of my 10-12hrs making sure that the website works on mobile 100% of 80% of the time.
 
 (^Am actually really proud of this so pls minimize your browsers. Also send me an email if anything breaks or you have suggestions.)
 
@@ -34,7 +34,7 @@ Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), 
 
 **Also reBlog?**
 
-It's to justify my wasted time spent reading tech things on the internet (yes, I know).
+It's to justify my time wasted reading tech things on the internet (yes, I know).
 
 **Should there be that many magic numbers/values in your CSS code?**
 
@@ -42,4 +42,4 @@ Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. T
 
 **This website looks like every other tech website**
 
-<Insert something about how design trends are elliptical and follow the cycle of the moom, and the seasons of Mars>
+<Insert something about how design trends are elliptical and follow the cycle of the moon, and the seasons of Mars>
