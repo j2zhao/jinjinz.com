@@ -22,6 +22,8 @@ uhm.....to demonstrate efficiency?? (copy/pasting everything on the website take
 
 The website works on mobile 100% of 80% of the time! What more do you want???????????????
 
+(^Am actually really proud of this so pls minimize your browsers. Also send me an email if anything breaks or isn't cool.)
+
 I did have a whole plan and was going to dedicate a bit of the website to fun facts, and hobbies though. Since I obviously didn't do that, here they are:
 
 Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), and I pinkie promise I'll wake up for early Sunday yoga in the fall.
