@@ -30,6 +30,10 @@ Fun Facts: I do frisbee, I write mediocre poetry (https://irrelevantfire.com/), 
 
 ^see 10-12hr of working with web development/CSS. I also don't usually talk to myself in Q&A style.
 
+**Also reBlog?**
+
+Let me justify wasting time on the internet however I want.
+
 **Should there be that many magic numbers/values in your CSS code?**
 
 Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the CSS code was tempered with.
