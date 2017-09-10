@@ -117,7 +117,7 @@ body {
       text-align: left;
     }
     .headerImage {
-        background-image: url("../images/casual.jpg");
+        background-image: url("../images/casual_compressed.jpg");
         background-color: #FFFFFF;
         height: 400px;
         margin: 0px auto 0 auto;
@@ -227,7 +227,7 @@ p {
         width: 60%;
         border-radius: 50%;
         margin-right: 20%;
-        margin-top: 7%;
+        margin-top: 140px;
         position: relative;
     }
     .aboutText {
@@ -329,7 +329,7 @@ hr {
 }
 /* scrolled down to nav bar */
 .scrolledDown {
-    margin-top: 45px; 
+    margin-top: -60px; 
 }
 
 /* scrolled down to nav bar */
