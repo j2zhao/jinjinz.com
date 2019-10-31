@@ -116,14 +116,14 @@ body {
       display: block;
       text-align: left;
     }
-    .headerImage {
+    /*.headerImage {
         background-image: url("../images/casual_compressed.jpg");
         background-color: #FFFFFF;
         height: 400px;
         margin: 0px auto 0 auto;
         background-size: 100%;
         text-align: left;
-    }
+    } */
 }
   
 
@@ -184,7 +184,7 @@ p {
 /* When the screen is less than 1000 pixels wide, change contact image to better fit dimension*/
 @media only screen and (max-width: 1000px) {
     .headerImage {
-        background-image: url("../images/casual.jpg");
+        background-image: url("../images/casual_compressed.jpg");
         height: 300px;
         margin: 0px auto 0 auto;
         background-size: 100%;
