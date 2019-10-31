@@ -116,14 +116,25 @@ body {
       display: block;
       text-align: left;
     }
-    /*.headerImage {
-        background-image: url("../images/casual_compressed.jpg");
+    .headerImage {
+        background-image: none !important;
         background-color: #FFFFFF;
-        height: 400px;
         margin: 0px auto 0 auto;
-        background-size: 100%;
-        text-align: left;
-    } */
+        text-align: center !important;
+        height: auto !important;
+
+    }
+    .headerImage h1 {
+        font-family: HK-Grotesk, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 50px;
+        color: rgb(97, 0, 0);
+        padding-top: 20px;
+        padding-left: 20px;
+        margin-top: 150px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
 }
   
 
@@ -182,7 +193,7 @@ p {
     text-align: left;
 }
 /* When the screen is less than 1000 pixels wide, change contact image to better fit dimension*/
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) and (min-width: 600px) {
     .headerImage {
         background-image: url("../images/casual_compressed.jpg");
         height: 300px;
