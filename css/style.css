@@ -38,21 +38,21 @@ body {
  margin: 0px;
 }
 .topheader {
-    font-family: Garogier, serif;
+    font-family: 'Cutive Mono', monospace;
     padding: 10px 16px 5px 16px;
     font-size: 40px;
     z-index: 10;
     height: 50px;
-    background-color: white;
+    background-color:  rgb(109, 0, 0);
 }
 
 .topheader a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 .topheader a:hover {
-    color: #808080;
+    color: white;
     text-decoration: none;
 }
 
@@ -66,10 +66,10 @@ body {
 
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(128, 0, 0);
     width: 100%;
     overflow: hidden;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.07), 0 10px 10px 0 rgba(0, 0, 0, 0.03);
+    box-shadow: 0 4px 4px 0 rgba(87, 67, 67, 0.07), 0 10px 10px 0 rgba(0, 0, 0, 0.03);
     z-index: 10;
 }
 
@@ -77,17 +77,17 @@ body {
 .topnav a {
     float: left;
     display: block;
-    color: #808080;
+    color: #ffffffb6;
     text-align: center;
-    padding: 10px 20px 8px 20px;
+    padding: 10px 20px 10px 20px;
     text-decoration: none;
     font-size: 20px;
-    font-family: HK-Grotesk-Light, Helvetica, sans-serif;
+    font-family: 'Cutive Mono', monospace;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    color: black;
+    color: white;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -104,7 +104,7 @@ body {
 }
   
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
       position: absolute;
@@ -133,11 +133,11 @@ body {
     text-decoration: none;
 }
 a:hover {
-    color: #FF6F15;
+    color: rgba(216, 0, 0, 0.931);
 }
 
 a {
-    color: #FA995C;
+    color: rgb(165, 0, 0);
     text-decoration: none;
 }
 .contactMain {
@@ -161,10 +161,14 @@ a {
 
 h1 {
     font-family: HK-Grotesk, Helvetica, sans-serif;
-    font-size: 160px;
+    font-size: 180px;
     color: #FFFFFF;
-    padding-top: 260px;
+    padding-top: 265px;
+    padding-left: 20px;
+    margin-top: 110px;
 }
+
+
 p {
     font-family: HK-Grotesk, Helvetica, sans-serif;
     font-size: 18px;
@@ -172,13 +176,13 @@ p {
 .headerImage {
     background-image: url("../images/backdrop_compressed.jpg");
     background-color: #FFFFFF;
-    height: 400px;
+    height: 420px;
     margin: 0 auto 0 auto;
     background-size: 100%;
     text-align: left;
 }
 /* When the screen is less than 1000 pixels wide, change contact image to better fit dimension*/
-@media screen and (max-width: 1000px) {
+@media only screen and (max-width: 1000px) {
     .headerImage {
         background-image: url("../images/casual.jpg");
         height: 300px;
@@ -193,11 +197,14 @@ p {
         font-size: 100px;
         color: #FFFFFF;
         padding-top: 215px;
+        padding-left: 20px;
+        margin-top: 180px;
     }
 }
 
 .aboutText h2 {
-    font-family: HK-Grotesk-Light, Helvetica, sans-serif;
+    font-family: 'Cutive Mono', monospace;
+
     font-size:100px;
     padding: 0;
     margin: 0;
@@ -217,7 +224,7 @@ p {
     border-radius: 50%;
     float: right;
     margin-right: 15%;
-    margin-top: 15%;
+    margin-top: 14%;
     position: relative;
 }
 
