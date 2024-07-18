@@ -1,4 +1,4 @@
 # jinjinz.com
-Personal Tech Website
+Personal Tech Website -> v. 2024
 
 
